@@ -14,7 +14,7 @@
 
 ### 2.1 Configuration
 - Identifier la référence du **GPIO Expander** et télécharger sa datasheet.
-   - Référence MCP23S17-E/SO : [MCP23S17-E_SO.pdf](https://github.com/MonnierNathan/TP_micro_S10_MONNIER_CROCE/main/MCP23S17-E_SO.pdf)
+   - Référence MCP23S17-E/SO : [MCP23S17-E_SO.pdf](https://github.com/MonnierNathan/TP_micro_S10_MONNIER_CROCE/blob/main/MCP23S17-E_SO.pdf)
 - Déterminer quel **SPI** est utilisé sur le **STM32**.
 - Configurer les paramètres correspondants dans **STM32CubeIDE**.
 
